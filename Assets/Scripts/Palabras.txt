@@ -1,0 +1,16 @@
+﻿ZC1 = Tardanza
+ZI1 = Tardansa
+ZII1 = Tardanca
+ZC2 = Crianza
+ZI2 = Criansa
+ZII2 = Crianca
+ZC3 = Adivinanza
+ZI3 = Adivinansa
+ZII3 = Adivinanca
+ZC4 = Danza
+ZI4 = Dansa
+ZII4 = Danca
+ZC5 = Esperanza
+ZI5 = Esperansa
+ZII5 =  Esperanca
+
